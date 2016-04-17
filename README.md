@@ -1,2 +1,1 @@
-# android-animations
-Android Animations
+# Android Animations
